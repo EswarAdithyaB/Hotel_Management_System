@@ -1,0 +1,16 @@
+		 Hotel Bill
+--------------------------------------
+  User Name       : Eswar
+  Check In Date       : 2023-04-04
+  Check out Date      : 2023-04-05
+  Number of Days      : 2
+  Room Number         : 201
+  Cost of room Per day: 1200.0
+  Total cost for room : 2400.0
+---------------------------------------
+		 TAXES
+  CGST       (12%)    : 288.0
+  SGST       (12%)    : 288.0
+ service Tax (10%)    : 240.0
+---------------------------------------
+Total Cost              : 3216.0
